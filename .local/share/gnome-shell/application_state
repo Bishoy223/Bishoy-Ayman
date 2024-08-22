@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Nautilus.desktop" score="7.2529296875" last-seen="1723935546"/>
-    <application id="org.gnome.Settings.desktop" score="0.01123046875" last-seen="1723733286"/>
-    <application id="gnome-initial-setup.desktop" score="0.00244140625" last-seen="1723732915"/>
-    <application id="firefox_firefox.desktop" score="299595.99169921875" last-seen="1723935704"/>
-    <application id="org.gnome.Terminal.desktop" score="462.33837890625" last-seen="1723935697"/>
-    <application id="org.gnome.TextEditor.desktop" score="0.25" last-seen="1723935314"/>
+    <application id="org.gnome.Nautilus.desktop" score="4.45330810546875" last-seen="1723938844"/>
+    <application id="org.gnome.Settings.desktop" score="0.000701904296875" last-seen="1723733286"/>
+    <application id="gnome-initial-setup.desktop" score="0.000152587890625" last-seen="1723732915"/>
+    <application id="firefox_firefox.desktop" score="18769.311981201172" last-seen="1723938651"/>
+    <application id="org.gnome.Terminal.desktop" score="148.83364868164062" last-seen="1723938844"/>
+    <application id="org.gnome.TextEditor.desktop" score="0.015625" last-seen="1723938168"/>
   </context>
 </application-state>
